@@ -4,7 +4,7 @@
 ## Description
 Analyzes stock data
 
-![app_image](Mockup.PNG)
+![app_image](Mockup.png)
 
 ## Table of Contents
 - [Installation](#installation)
